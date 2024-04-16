@@ -33,6 +33,3 @@ O projeto está organizado da seguinte forma:
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhoria, por favor, abra uma issue neste repositório.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter detalhes.
